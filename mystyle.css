@@ -1,0 +1,19 @@
+.semesters-list {
+list-style-type: none;
+color: hsl(0, 50%, 50%);
+font-family: sans-serif;
+}
+
+.semester {
+border-style: solid;
+border-color: #000;
+border-width: 2px;
+padding: 10px;
+background-color: #ddd;
+}
+
+.semester-heading {
+font weight: normal;
+padding: 10px;
+Margin: 0;
+}
